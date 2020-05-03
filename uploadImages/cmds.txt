@@ -1,0 +1,1 @@
+node i --save-dev nodemon to download nodemon in vscode
